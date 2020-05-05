@@ -1,0 +1,1 @@
+It will return the difference between remote repository and local repository. If there is no changes it will not return anything
